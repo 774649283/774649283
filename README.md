@@ -1,16 +1,14 @@
-### Hi there 👋
+# 🚀 欢迎来到我的 GitHub 主页 🚀
 
-<!--
-**774649283/774649283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 一个会写Node.js、PHP和前端的developer
 
-Here are some ideas to get you started:
+## 🌟 个人信息
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+如果您想了解更多关于我的信息，请访问我的个人网站：
+
+https://liubao.org.cn
+
+👉 感谢您访问我的 GitHub 主页，如果您有任何问题或建议，请随时与我联系！
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=774649283&show_icons=true&include_all_commits=true)](https://github.com/774649283/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=774649283&layout=compact)](https://github.com/774649283/github-readme-stats)
