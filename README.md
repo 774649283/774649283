@@ -13,3 +13,5 @@ https://liubao.org.cn
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=774649283&show_icons=true&include_all_commits=true)](https://github.com/liubao-personal)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=774649283&layout=compact)](https://github.com/liubao-personal)
+
+![wave](https://media.giphy.com/media/3o7TKOCXul7Xc8ZBNS/giphy.gif)
